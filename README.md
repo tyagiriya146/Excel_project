@@ -8,7 +8,7 @@ My project involves creating an impactful dashboard on company layoffs.It compri
 
 The dashboard will present crucial insights from the layoff data in a user-friendly and interactive format, enabling **stakeholders** to make informed decisions.
 
-# Road Casualties Insights" – an impactful Excel-based dashboard
+# Road Casualties Insights – an impactful Excel-based dashboard
 
 The primary aim is to enhance road safety by understanding crucial insights from the data. This dynamic dashboard offers a range of essential features:
 
