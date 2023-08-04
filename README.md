@@ -1,5 +1,7 @@
 # Excel_project 
 ### layoffs 2022-23
+The data available for analysis spans from the declaration of COVID-19 as a pandemic on 11 March 2020 to the present date, 14 February 2023.
+Here's the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download from **kaggle**.
 My project involves creating an impactful dashboard on company layoffs.It comprises key sections such as:
 * Dataset collection
 * Data cleaning
