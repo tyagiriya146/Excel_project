@@ -1,5 +1,5 @@
 # Excel_project 
-### layoffs 2022-23
+## 1. layoffs 2022-23
 The data available for analysis spans from the declaration of COVID-19 as a pandemic on 11 March 2020 to the present date, 14 February 2023.
 
 Here's the dataset https://www.kaggle.com/datasets/swaptr/layoffs-2022?resource=download from **kaggle**.
@@ -12,7 +12,7 @@ My project involves creating an impactful dashboard on company layoffs.It compri
 
 The dashboard will present crucial insights from the layoff data in a user-friendly and interactive format, enabling **stakeholders** to make informed decisions.
 
-# Road Casualties Insights – an impactful Excel-based dashboard
+## 2. Road Casualties Insights – an impactful Excel-based dashboard
 
 The primary aim is to enhance road safety by understanding crucial insights from the data. This dynamic dashboard offers a range of essential features:
 
